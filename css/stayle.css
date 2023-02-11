@@ -5,18 +5,12 @@
 body{
   font-family: 'Roboto' 'Roboto Condensed', "Arial" sans-serif;
   font-size: 16px;
-  font-weight: 400;
   line-height: 24px;
+  font-weight: 400;
   letter-spacing: 0.5px;
 }
 
 /* navigation  */
-.site-logo_img{
-font-size: 32px;
-font-style: bold;
-line-height: 32px;
-line-height: 100%;
-}
 .site-nav{
   text-decoration: none;
 }
@@ -24,6 +18,7 @@ line-height: 100%;
   list-style: none;
 }
 .site_nav_items a{
+  font-family: "Roboto", "Arial," serif;
   font-weight: 500;
   font-size: 13px;
   line-height: 15px;
@@ -64,7 +59,6 @@ line-height: 100%;
   font-weight: 700;
   font-size: 40px;
   line-height: 48px;
-  letter-spacing: 0,5px;
 }
 
 /* featuresite  */
@@ -73,7 +67,6 @@ line-height: 100%;
   font-weight: 700;
   font-size: 72px;
   line-height: 86px;
-  letter-spacing: 0.5px;
 }
 .feature{
   width: 340px;
@@ -101,7 +94,6 @@ line-height: 100%;
   font-weight: 700;
   font-size: 40px;
   line-height: 48px;
-  letter-spacing: 0,5px;
 }
 .promo-highlite{
   color: #ff7500;
